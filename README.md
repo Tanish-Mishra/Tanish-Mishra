@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="/gif/coder.gif" width="500" height="320" />
 
 
-## I'm a DevOps Enthusiast and Cloud Explorer!!
+## I'm a and Cloud Explorer!!
 - ✍ You can find my projects here [Click-Me](https://github.com/Tanish-Mishra?tab=repositories)
 - 🔭 I’m currently learning to Contribute to the Open Source Projects!
 - 🌱 I’m currently learning Amazon Web Services(AWS)
