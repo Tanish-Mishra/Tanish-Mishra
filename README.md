@@ -58,5 +58,5 @@
 [Click-Me]: https://github.com/Tanish-Mishra
 [github]: https://github.com/Tanish-Mishra
 [instagram]: https://www.instagram.com/_tanish_mishra/
-[linkedin]: https://www.linkedin.com/in/tanish-mishra-a5a235207/
+[linkedin]: https://www.linkedin.com/in/tanish-mishra-5a7478265/
 [monkeytype]: https://www.monkeytype.com/
