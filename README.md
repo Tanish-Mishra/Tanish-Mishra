@@ -1,6 +1,6 @@
 ﻿### Hello <img src="/gif/Hi.gif" width="50" height="40" > World, I'm Tanish <img src="/icons/heart.png" width="50" height="85" >
 
- <img align="right" alt="GIF" src="/gif/coder.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/bee0a9cc6c6f0a1ae3dd51a6c710922caaaa4e335c74a6852a8a7dbf9a608734/68747470733a2f2f692e696d6775722e636f6d2f646b31494737322e676966" width="500" height="320" />
 
 
 ## I'm a DevOps Enthusiast and Cloud Explorer!!
