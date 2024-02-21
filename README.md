@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/bee0a9cc6c6f0a1ae3dd51a6c710922caaaa4e335c74a6852a8a7dbf9a608734/68747470733a2f2f692e696d6775722e636f6d2f646b31494737322e676966" width="500" height="320" />
 
 
-## I'm a DevOps Enthusiast and Cloud Explorer!!
+## I'm a and Cloud Explorer!!
 - ✍ You can find my projects here [Click-Me](https://github.com/Tanish-Mishra?tab=repositories)
 - 🔭 I’m currently learning to Contribute to the Open Source Projects!
 - 🌱 I’m currently learning Amazon Web Services(AWS)
